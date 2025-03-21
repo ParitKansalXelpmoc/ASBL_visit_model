@@ -88,7 +88,7 @@
   - M_LANDING
 
 ## 9. Button Clicks & Interactions
-- **button_counts**: A dictionary tracking the number of times different buttons were clicked in this session.
+- **button_counts**: A dictionary tracking the number of times different buttons were clicked in last 7 days.
   
   Example:
   ```json
