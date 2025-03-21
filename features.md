@@ -99,7 +99,7 @@
       "MEDIA": 29
   }
   ```
-- **total_btn_clicked**: Total buttons clicked (excluding `URL_HIT`) in the last 7 days.
+- **total_btn_clicked**: Total buttons clicked in the last 7 days.
 - **Different Buttons**: Count of different types of buttons clicked in the last 7 days:
   - URL_HIT_btn
   - HOME_btn
