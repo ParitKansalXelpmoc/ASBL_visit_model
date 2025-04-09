@@ -1,3 +1,10 @@
+## Objective
+
+- pos = ["Pre Site Visit", "Post Site Visit", "Sales Closure", "Flat Blocked"]
+- neg = ["NA", "Not Interested", "Lead Initiated", "New Lead"]
+- Do subtract Lead Creation button process.
+
+
 ## Feature Importance
 
 <img src='https://raw.githubusercontent.com/ParitKansalXelpmoc/ASBL_visit_model/main/Experiment/6_2/Top_15_Feature_Importances_from_Model.png' width='600'/>
