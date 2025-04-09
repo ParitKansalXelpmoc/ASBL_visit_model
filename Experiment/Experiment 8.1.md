@@ -1,3 +1,8 @@
+## Objective
+
+- "is_lead_created"
+- Do not subtract Lead Creation button process.
+
 ## Feature Importance
 
 <img src='https://raw.githubusercontent.com/ParitKansalXelpmoc/ASBL_visit_model/main/Experiment/8_1/Top_15_Feature_Importances_from_Model.png' width='600'/>
