@@ -20,7 +20,7 @@ REQUIRED_COLUMNS = [
 NOT_NULL_COLUMNS = REQUIRED_COLUMNS.copy()
 
 # Import transformation functions
-from merge import (
+from src.merge import (
     compute_is_lead_created,
     compute_time_spent_this_session,
     compute_time_spent_per_page,
@@ -30,9 +30,11 @@ from merge import (
     calculate_map_entries,
     process_web_session_sections,
 )
-from data_coversion import preprocess_dataframe
-from filter import filter_and_process_dataframe
-from feature_creation import (
+from src.data_coversion import (
+    preprocess_dataframe
+)
+from src.filter import filter_and_process_dataframe
+from src.feature_creation import (
     calculate_time_spent_per_page_and_unique_pages_visited,
     mode_metrics,
     calculate_time_spent_last_24_and_48_hours,
