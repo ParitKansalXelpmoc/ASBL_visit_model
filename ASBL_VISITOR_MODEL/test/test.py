@@ -2,7 +2,7 @@ import requests
 import json
 
 # Path to the JSON file to be tested
-json_file_path = r'C:\Users\xelpmoc\Downloads\output (1).json'
+json_file_path = r'sample.json'
 
 # URL of the FastAPI endpoint
 url = "http://127.0.0.1:8000/process-data/"  # Default FastAPI URL
